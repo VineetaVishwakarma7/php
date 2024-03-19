@@ -72,7 +72,7 @@
 		   <span class="col_yell fs-5"><i class="fa fa-map-marker"></i></span>
 		  </div>
 		  <div class="col-md-10 col-lg-11 col-11">
-		   <p class="mb-0">Z793 STower Suat, Suite 26 Knockland, DB 8513 United Kingdom</p>
+		   <p class="mb-0">Ahemdabad Gujarat</p>
 		  </div>
 		</div>
 		<div class="footer_1i1 row mt-3">
@@ -109,7 +109,7 @@
  <div class="container-xl">
   <div class="row footer_b1 text-center">
    <div class="col-md-12">
-     <p class="mb-0 text-light">© 2013 Your Website Name. All Rights Reserved | Design by <a class="col_yell fw-bold" href="http://www.templateonweb.com">TemplateOnWeb</a></p>
+     <p class="mb-0 text-light">© 2024 Your Website Name. All Rights Reserved | Design by Vishwakarma Vinni</a></p>
    </div>   
   </div>
  </div>
